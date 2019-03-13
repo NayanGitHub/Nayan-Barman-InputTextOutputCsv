@@ -1,20 +1,4 @@
 package com.nayan.util;
-/*
- *
- *   Copyright Utilibill  10/05/2010
- *
- */
-
-
-import java.nio.ByteBuffer;
-import java.nio.CharBuffer;
-import java.nio.charset.CharacterCodingException;
-import java.nio.charset.Charset;
-import java.nio.charset.CharsetDecoder;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.regex.Matcher;
-import java.util.regex.Pattern;
 
 public class StringUtil {
 	 /**

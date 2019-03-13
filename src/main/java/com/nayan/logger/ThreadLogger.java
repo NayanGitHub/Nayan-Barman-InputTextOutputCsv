@@ -1,23 +1,9 @@
 package com.nayan.logger;
-/*
- *
- *   Copyright Utilibill  26/07/2010
- *
- */
-
-
 
 import java.util.HashMap;
 import java.util.Map;
 import org.apache.log4j.Logger;
 
-/**
- *
- * Class    : ThreadLogger
- * @author  : John Fairhall
- * Purpose  : map threads to loggers
- *
- */
 public class ThreadLogger {
 
     // map of thread names to loggers

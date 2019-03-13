@@ -1,12 +1,4 @@
 package com.nayan.util;
-/*
- * 
- *   Copyright Utilibill  25/10/2010
- * 
- */
-
-
-
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -24,13 +16,6 @@ import java.util.zip.CheckedInputStream;
 
 import com.nayan.logger.ThreadLogger;
 
-/**
- *
- * Class    : FileUtil
- * @author  : John Fairhall
- * Purpose  : library of useful file handling utilities
- *
- */
 public class FileUtil
 {
    
